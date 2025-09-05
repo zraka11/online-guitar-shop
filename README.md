@@ -74,7 +74,7 @@ src/
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/zraka11/online-guitar-shop.git
 cd online-guitar-shop
 
 # Install dependencies
