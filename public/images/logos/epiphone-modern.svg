@@ -1,0 +1,7 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="8" width="120" height="24" rx="4" fill="#7C3AED"/>
+  <text x="60" y="26" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">EPIPHONE</text>
+  <circle cx="18" cy="20" r="4" fill="white"/>
+  <circle cx="32" cy="20" r="4" fill="white"/>
+  <circle cx="46" cy="20" r="4" fill="white"/>
+</svg>

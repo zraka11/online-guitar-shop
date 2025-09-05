@@ -1,0 +1,55 @@
+<svg width="200" height="400" viewBox="0 0 200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone frame -->
+  <rect width="200" height="400" rx="20" fill="#1a1a1a"/>
+  <rect x="10" y="30" width="180" height="320" rx="15" fill="#ffffff"/>
+  
+  <!-- Status bar -->
+  <rect x="20" y="40" width="160" height="20" fill="#f8f9fa"/>
+  <text x="25" y="52" font-family="Arial" font-size="8" fill="#000">9:41</text>
+  <text x="165" y="52" font-family="Arial" font-size="8" fill="#000">100%</text>
+  
+  <!-- Header -->
+  <rect x="20" y="70" width="160" height="40" fill="#FF6B35"/>
+  <text x="100" y="85" text-anchor="middle" font-family="Arial" font-size="10" fill="white" font-weight="bold">VibeStrings</text>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial" font-size="8" fill="white">Guitar Collection</text>
+  
+  <!-- Search bar -->
+  <rect x="25" y="120" width="150" height="25" rx="12" fill="#f1f3f4" stroke="#e1e3e4"/>
+  <text x="35" y="135" font-family="Arial" font-size="8" fill="#6b7280">Search guitars...</text>
+  
+  <!-- Guitar card 1 -->
+  <rect x="25" y="155" width="150" height="60" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="30" y="160" width="40" height="50" rx="4" fill="#f9fafb"/>
+  <!-- Mini guitar icon -->
+  <ellipse cx="50" cy="175" rx="8" ry="12" fill="#8B4513"/>
+  <circle cx="50" cy="170" r="4" fill="#2D1810"/>
+  <rect cx="48" cy="160" width="4" height="15" fill="#DEB887"/>
+  
+  <text x="80" y="170" font-family="Arial" font-size="9" fill="#111827" font-weight="bold">Fender Stratocaster</text>
+  <text x="80" y="185" font-family="Arial" font-size="7" fill="#6b7280">Electric Guitar</text>
+  <text x="80" y="200" font-family="Arial" font-size="9" fill="#FF6B35" font-weight="bold">$1,299</text>
+  
+  <!-- Guitar card 2 -->
+  <rect x="25" y="225" width="150" height="60" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="30" y="230" width="40" height="50" rx="4" fill="#f9fafb"/>
+  <!-- Mini guitar icon -->
+  <ellipse cx="50" cy="245" rx="8" ry="12" fill="#654321"/>
+  <circle cx="50" cy="240" r="4" fill="#2D1810"/>
+  <rect cx="48" cy="230" width="4" height="15" fill="#DEB887"/>
+  
+  <text x="80" y="240" font-family="Arial" font-size="9" fill="#111827" font-weight="bold">Gibson Les Paul</text>
+  <text x="80" y="255" font-family="Arial" font-size="7" fill="#6b7280">Electric Guitar</text>
+  <text x="80" y="270" font-family="Arial" font-size="9" fill="#FF6B35" font-weight="bold">$2,499</text>
+  
+  <!-- Guitar card 3 -->
+  <rect x="25" y="295" width="150" height="60" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="30" y="300" width="40" height="50" rx="4" fill="#f9fafb"/>
+  <!-- Mini guitar icon -->
+  <ellipse cx="50" cy="315" rx="8" ry="12" fill="#D2691E"/>
+  <circle cx="50" cy="310" r="4" fill="#2D1810"/>
+  <rect cx="48" cy="300" width="4" height="15" fill="#DEB887"/>
+  
+  <text x="80" y="310" font-family="Arial" font-size="9" fill="#111827" font-weight="bold">Martin D-28</text>
+  <text x="80" y="325" font-family="Arial" font-size="7" fill="#6b7280">Acoustic Guitar</text>
+  <text x="80" y="340" font-family="Arial" font-size="9" fill="#FF6B35" font-weight="bold">$3,199</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="200" height="400" viewBox="0 0 200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone frame -->
+  <rect width="200" height="400" rx="20" fill="#1a1a1a"/>
+  <rect x="10" y="30" width="180" height="320" rx="15" fill="#ffffff"/>
+  
+  <!-- Status bar -->
+  <rect x="20" y="40" width="160" height="20" fill="#f8f9fa"/>
+  <text x="25" y="52" font-family="Arial" font-size="8" fill="#000">9:41</text>
+  <text x="165" y="52" font-family="Arial" font-size="8" fill="#000">100%</text>
+  
+  <!-- Header with back button -->
+  <rect x="20" y="70" width="160" height="40" fill="#FF6B35"/>
+  <text x="30" y="90" font-family="Arial" font-size="12" fill="white">‹</text>
+  <text x="100" y="85" text-anchor="middle" font-family="Arial" font-size="10" fill="white" font-weight="bold">Fender Stratocaster</text>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial" font-size="8" fill="white">Electric Guitar Details</text>
+  
+  <!-- Large guitar image -->
+  <rect x="25" y="120" width="150" height="120" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+  <!-- Large guitar illustration -->
+  <ellipse cx="100" cy="160" rx="25" ry="35" fill="#8B4513"/>
+  <circle cx="100" cy="150" r="8" fill="#2D1810"/>
+  <rect x="95" y="125" width="10" height="35" fill="#DEB887"/>
+  <line x1="97" y1="130" x2="97" y2="160" stroke="#E5E5E5" stroke-width="0.5"/>
+  <line x1="99" y1="130" x2="99" y2="160" stroke="#E5E5E5" stroke-width="0.5"/>
+  <line x1="101" y1="130" x2="101" y2="160" stroke="#E5E5E5" stroke-width="0.5"/>
+  <line x1="103" y1="130" x2="103" y2="160" stroke="#E5E5E5" stroke-width="0.5"/>
+  
+  <!-- Product info -->
+  <text x="30" y="260" font-family="Arial" font-size="12" fill="#111827" font-weight="bold">Fender Player Stratocaster</text>
+  <text x="30" y="275" font-family="Arial" font-size="8" fill="#6b7280">3-Color Sunburst, Maple Fingerboard</text>
+  
+  <!-- Price -->
+  <text x="30" y="295" font-family="Arial" font-size="16" fill="#FF6B35" font-weight="bold">$1,299.99</text>
+  
+  <!-- Specs preview -->
+  <rect x="25" y="305" width="150" height="40" rx="6" fill="#f8f9fa"/>
+  <text x="30" y="318" font-family="Arial" font-size="8" fill="#374151" font-weight="bold">Specifications</text>
+  <text x="30" y="330" font-family="Arial" font-size="7" fill="#6b7280">Body: Alder • Neck: Maple</text>
+  <text x="30" y="340" font-family="Arial" font-size="7" fill="#6b7280">Pickups: Player Series Alnico 5</text>
+  
+  <!-- Add to cart button -->
+  <rect x="25" y="355" width="150" height="35" rx="18" fill="#FF6B35"/>
+  <text x="100" y="375" text-anchor="middle" font-family="Arial" font-size="10" fill="white" font-weight="bold">Add to Cart</text>
+</svg>

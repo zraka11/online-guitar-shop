@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <linearGradient id="gibsonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D2691E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="60" fill="url(#gibsonGrad)" rx="8"/>
+  <text x="100" y="38" font-family="serif" font-size="26" font-weight="bold" text-anchor="middle" fill="white">
+    GIBSON
+  </text>
+  <path d="M20 30 L30 20 L30 40 Z" fill="#FFD700"/>
+  <path d="M180 30 L170 20 L170 40 Z" fill="#FFD700"/>
+</svg>

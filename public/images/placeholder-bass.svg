@@ -1,0 +1,43 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bass Guitar -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Guitar body -->
+  <path d="M150 90 L170 130 L170 210 L150 250 L130 210 L130 130 Z" fill="#2F4F4F" stroke="#1C1C1C" stroke-width="2"/>
+  
+  <!-- Pickups -->
+  <rect x="140" y="150" width="20" height="10" rx="5" fill="#1a1a1a"/>
+  <rect x="140" y="170" width="20" height="10" rx="5" fill="#1a1a1a"/>
+  
+  <!-- Guitar neck -->
+  <rect x="146" y="40" width="8" height="80" fill="#DEB887" stroke="#CD853F" stroke-width="1"/>
+  
+  <!-- Frets -->
+  <line x1="146" y1="50" x2="154" y2="50" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="146" y1="60" x2="154" y2="60" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="146" y1="70" x2="154" y2="70" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="146" y1="80" x2="154" y2="80" stroke="#C0C0C0" stroke-width="1"/>
+  
+  <!-- Bass strings (thicker) -->
+  <line x1="148" y1="40" x2="148" y2="90" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="150" y1="40" x2="150" y2="90" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="152" y1="40" x2="152" y2="90" stroke="#E5E5E5" stroke-width="1"/>
+  
+  <!-- Headstock -->
+  <rect x="144" y="25" width="12" height="20" fill="#DEB887" stroke="#CD853F" stroke-width="1"/>
+  
+  <!-- Tuning pegs -->
+  <circle cx="147" cy="30" r="2" fill="#C0C0C0"/>
+  <circle cx="150" cy="30" r="2" fill="#C0C0C0"/>
+  <circle cx="153" cy="30" r="2" fill="#C0C0C0"/>
+  <circle cx="150" cy="37" r="2" fill="#C0C0C0"/>
+  
+  <!-- Bridge -->
+  <rect x="142" y="240" width="16" height="6" fill="#1C1C1C"/>
+  
+  <!-- Orange accent -->
+  <circle cx="150" cy="200" r="3" fill="#FF6B35"/>
+  
+  <!-- Guitar type label -->
+  <text x="150" y="285" text-anchor="middle" font-family="Arial" font-size="12" fill="#6b7280">Bass Guitar</text>
+</svg>

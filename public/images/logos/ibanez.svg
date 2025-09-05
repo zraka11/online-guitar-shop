@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <linearGradient id="ibanezGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#CC0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="60" fill="url(#ibanezGrad)" rx="8"/>
+  <text x="100" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    IBANEZ
+  </text>
+  <polygon points="15,30 25,20 25,40" fill="#FFFF00"/>
+  <polygon points="185,30 175,20 175,40" fill="#FFFF00"/>
+</svg>

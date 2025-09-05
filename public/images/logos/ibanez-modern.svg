@@ -1,0 +1,7 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="8" width="120" height="24" rx="4" fill="#FF6B35"/>
+  <text x="60" y="26" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">IBANEZ</text>
+  <polygon points="15,16 25,12 25,20" fill="white"/>
+  <polygon points="35,16 45,12 45,20" fill="white"/>
+  <polygon points="55,16 65,12 65,20" fill="white"/>
+</svg>

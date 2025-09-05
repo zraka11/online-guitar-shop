@@ -1,0 +1,49 @@
+{
+  "common": {
+    "loading": "Duke u ngarkuar...",
+    "error": "Diçka shkoi keq. Ju lutemi provoni përsëri."
+  },
+  "hero": {
+    "title": "Gjeni Kitarën Tuaj të Përsosur",
+    "subtitle": "Zbuloni kitara të jashtëzakonshme nga markat më të njohura në botë"
+  },
+  "brands": {
+    "title": "Eksploroni Markat e Kitarave",
+    "subtitle": "Zgjidhni nga prodhuesit premium të kitarave në mbarë botën"
+  },
+  "features": {
+    "title": "Pse të zgjidhni VibeStrings?",
+    "browsing": {
+      "title": "Shfletim i Lehtë",
+      "description": "Gjeni kitarën tuaj të përsosur me sistemin tonë intuitiv të kërkimit dhe filtrimit"
+    },
+    "delivery": {
+      "title": "Dërgim i Shpejtë",
+      "description": "Merrni kitarën tuaj të re të dorëzuar në mënyrë të sigurt dhe të shpejtë në derën tuaj"
+    },
+    "payments": {
+      "title": "Pagesa të Sigurta",
+      "description": "Blini me besim duke përdorur procesin tonë të sigurt të pagesave"
+    }
+  },
+  "models": {
+    "title": "Modelet e Kitarave",
+    "selection": "Përzgjedhja Jonë e Kitarave",
+    "search": "Kërkoni kitara...",
+    "allTypes": "Të Gjitha Llojet",
+    "loadMore": "Ngarko Më Shumë"
+  },
+  "details": {
+    "specifications": "Specifikimet",
+    "musicians": "Kush e luan?",
+    "showMore": "Trego Më Shumë"
+  },
+  "footer": {
+    "company": "VibeStrings",
+    "description": "Destinacioni juaj kryesor për kitara të jashtëzakonshme nga markat e njohura botërore.",
+    "contact": "Kontakt",
+    "support": "Mbështetje",
+    "about": "Rreth Nesh",
+    "language": "Gjuha"
+  }
+}

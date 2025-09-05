@@ -1,0 +1,53 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again."
+  },
+  "hero": {
+    "title": "Why try VibeStrings?",
+    "subtitle": "Discover exceptional guitars from the world's most renowned brands"
+  },
+  "mid": {
+    "title": "Browse top quality Guitars online",
+    "subtitle": "Explore 50+ latest collections of branded guitars online with VibeStrings."
+  },
+  "brands": {
+    "title": "Featuring the Best Brands",
+    "subtitle": "Choose from premium guitar manufacturers worldwide"
+  },
+  "features": {
+    "title": "Why Choose VibeStrings?",
+    "browsing": {
+      "title": "Smooth Browsing",
+      "description": "Find your perfect guitar with our intuitive search and filtering system"
+    },
+    "delivery": {
+      "title": "Easy Delivery",
+      "description": "Get your new guitar delivered safely and quickly to your doorstep"
+    },
+    "payments": {
+      "title": "Swift Payments",
+      "description": "Shop with confidence using our secure payment processing"
+    }
+  },
+  "models": {
+    "title": "Guitar Models",
+    "selection": "Our Guitar Selection",
+    "search": "Search guitars...",
+    "allTypes": "All Types",
+    "loadMore": "Load More"
+  },
+  "details": {
+    "specifications": "Specifications",
+    "musicians": "Who plays it?",
+    "showMore": "Show More"
+  },
+  "footer": {
+    "company": "VibeStrings",
+    "description": "Your premier destination for exceptional guitars from world-renowned brands.",
+    "contact": "Contact",
+    "support": "Support",
+    "about": "About Us",
+    "language": "Language"
+  }
+}

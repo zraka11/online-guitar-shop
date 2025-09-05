@@ -1,0 +1,48 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Acoustic Guitar -->
+  <rect width="300" height="300" fill="#f8f9fa"/>
+  
+  <!-- Guitar body -->
+  <ellipse cx="150" cy="180" rx="60" ry="80" fill="#D2691E" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Sound hole -->
+  <circle cx="150" cy="160" r="20" fill="#2D1810"/>
+  <circle cx="150" cy="160" r="15" fill="none" stroke="#8B4513" stroke-width="1"/>
+  <circle cx="150" cy="160" r="10" fill="none" stroke="#CD853F" stroke-width="0.5"/>
+  
+  <!-- Guitar neck -->
+  <rect x="145" y="50" width="10" height="100" fill="#DEB887" stroke="#CD853F" stroke-width="1"/>
+  
+  <!-- Frets -->
+  <line x1="145" y1="60" x2="155" y2="60" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="145" y1="70" x2="155" y2="70" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="145" y1="80" x2="155" y2="80" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="145" y1="90" x2="155" y2="90" stroke="#C0C0C0" stroke-width="1"/>
+  <line x1="145" y1="100" x2="155" y2="100" stroke="#C0C0C0" stroke-width="1"/>
+  
+  <!-- Strings -->
+  <line x1="147" y1="50" x2="147" y2="150" stroke="#E5E5E5" stroke-width="0.5"/>
+  <line x1="149" y1="50" x2="149" y2="150" stroke="#E5E5E5" stroke-width="0.5"/>
+  <line x1="151" y1="50" x2="151" y2="150" stroke="#E5E5E5" stroke-width="0.5"/>
+  <line x1="153" y1="50" x2="153" y2="150" stroke="#E5E5E5" stroke-width="0.5"/>
+  
+  <!-- Headstock -->
+  <rect x="142" y="30" width="16" height="25" fill="#DEB887" stroke="#CD853F" stroke-width="1"/>
+  
+  <!-- Tuning pegs -->
+  <circle cx="145" cy="35" r="2" fill="#C0C0C0"/>
+  <circle cx="150" cy="35" r="2" fill="#C0C0C0"/>
+  <circle cx="155" cy="35" r="2" fill="#C0C0C0"/>
+  <circle cx="145" cy="45" r="2" fill="#C0C0C0"/>
+  <circle cx="150" cy="45" r="2" fill="#C0C0C0"/>
+  <circle cx="155" cy="45" r="2" fill="#C0C0C0"/>
+  
+  <!-- Bridge -->
+  <rect x="140" y="240" width="20" height="8" fill="#8B4513"/>
+  
+  <!-- Orange accent -->
+  <circle cx="150" cy="200" r="3" fill="#FF6B35"/>
+  
+  <!-- Guitar type label -->
+  <text x="150" y="285" text-anchor="middle" font-family="Arial" font-size="12" fill="#6b7280">Acoustic Guitar</text>
+</svg>
