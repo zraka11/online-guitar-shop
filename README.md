@@ -108,3 +108,4 @@ The UI was implemented based on a provided Figma design.
 ## License
 
 MIT © 2025
+"# Internship Assignment Submission" 
